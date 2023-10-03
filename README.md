@@ -1,7 +1,7 @@
 # Projeto Lampada
 
 <p align="center">
- Meu projeto de uma Lampada <a href="https://drey021.github.io/Lampada/" target="_blank">"Lampada"</a>,realizado com HTML, CSS.
+ Meu projeto de uma Lampada aqui: <a href="https://drey021.github.io/Lampada/" target="_blank">"Lampada"</a>.
 </p>
 
 
